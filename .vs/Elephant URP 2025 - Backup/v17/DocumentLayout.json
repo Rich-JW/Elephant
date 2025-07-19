@@ -1,0 +1,516 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|c:\\users\\richa\\elephant urp 2025 - backup\\assets\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\player_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\player_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\fps_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\fps_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\player_jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\player_jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\hiteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\hiteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\object pooling\\testobjects\\pooltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\object pooling\\testobjects\\pooltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\muzzleflash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\muzzleflash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\object pooling\\testobjects\\pooltestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\object pooling\\testobjects\\pooltestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\interpolatedtransformupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\interpolatedtransformupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\weaponsway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\weaponsway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\spotlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\spotlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\smoothfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\smoothfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\interpolationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\interpolationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\interpolatedtransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\interpolatedtransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\mini first person controller\\scripts\\components\\firstpersonaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\mini first person controller\\scripts\\components\\firstpersonaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\mini first person controller\\scripts\\firstpersonlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\mini first person controller\\scripts\\firstpersonlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\headbob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\headbob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\cubetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\cubetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\mini first person controller\\scripts\\firstpersonmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\mini first person controller\\scripts\\firstpersonmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\player_gravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\player_gravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\lightcontroltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\lightcontroltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|C:\\Users\\richa\\Elephant URP 2025 - Backup\\assets\\lensflaretrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A291BF3-D6B5-3637-BC0E-85614BEF119E}|Assembly-CSharp.csproj|solutionrelative:assets\\lensflaretrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\VolumetricLights\\Scripts\\VolumetricLightsDepthPrePassFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\VolumetricLights\\Scripts\\VolumetricLightsDepthPrePassFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\PlayerStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerStateMachine.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\PlayerStateMachine.cs",
+              "RelativeToolTip": "Assets\\PlayerStateMachine.cs",
+              "ViewState": "AQIAAC8BAAAAAAAAAAAIwFABAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:19:02.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Player_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Player_Controller.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Player_Controller.cs",
+              "RelativeToolTip": "Assets\\Player_Controller.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T11:35:52.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeaponManager.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\WeaponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponManager.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\WeaponManager.cs",
+              "RelativeToolTip": "Assets\\WeaponManager.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:36:12.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameStateManager.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\GameStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameStateManager.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\GameStateManager.cs",
+              "RelativeToolTip": "Assets\\GameStateManager.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAA/wJsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:01:26.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Weapon.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Weapon.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAqwNUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:51:04.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Enums.cs",
+              "RelativeDocumentMoniker": "Assets\\Enums.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Enums.cs",
+              "RelativeToolTip": "Assets\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:55:21.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FPS_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\FPS_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS_Controller.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\FPS_Controller.cs",
+              "RelativeToolTip": "Assets\\FPS_Controller.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T20:15:10.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player_Jump.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Player_Jump.cs",
+              "RelativeDocumentMoniker": "Assets\\Player_Jump.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Player_Jump.cs",
+              "RelativeToolTip": "Assets\\Player_Jump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:15:02.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PoolTestItem.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Object Pooling\\TestObjects\\PoolTestItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Object Pooling\\TestObjects\\PoolTestItem.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Object Pooling\\TestObjects\\PoolTestItem.cs",
+              "RelativeToolTip": "Assets\\Object Pooling\\TestObjects\\PoolTestItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:30:21.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MuzzleFlash.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\MuzzleFlash.cs",
+              "RelativeDocumentMoniker": "Assets\\MuzzleFlash.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\MuzzleFlash.cs",
+              "RelativeToolTip": "Assets\\MuzzleFlash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:57:28.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Projectile.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Projectile.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAgwHsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T13:19:43.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HitEffect.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\HitEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\HitEffect.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\HitEffect.cs",
+              "RelativeToolTip": "Assets\\HitEffect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:47:48.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PoolTest.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Object Pooling\\TestObjects\\PoolTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Object Pooling\\TestObjects\\PoolTest.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Object Pooling\\TestObjects\\PoolTest.cs",
+              "RelativeToolTip": "Assets\\Object Pooling\\TestObjects\\PoolTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:19:20.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Spotlight.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Spotlight.cs",
+              "RelativeDocumentMoniker": "Assets\\Spotlight.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Spotlight.cs",
+              "RelativeToolTip": "Assets\\Spotlight.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:22:54.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeaponSway.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\WeaponSway.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponSway.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\WeaponSway.cs",
+              "RelativeToolTip": "Assets\\WeaponSway.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:06:34.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InterpolatedTransformUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\InterpolatedTransformUpdater.cs",
+              "RelativeDocumentMoniker": "Assets\\InterpolatedTransformUpdater.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\InterpolatedTransformUpdater.cs",
+              "RelativeToolTip": "Assets\\InterpolatedTransformUpdater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:44:18.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\PlayerMove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:48:47.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SmoothFollow.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\SmoothFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\SmoothFollow.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\SmoothFollow.cs",
+              "RelativeToolTip": "Assets\\SmoothFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:16:16.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InterpolationController.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\InterpolationController.cs",
+              "RelativeDocumentMoniker": "Assets\\InterpolationController.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\InterpolationController.cs",
+              "RelativeToolTip": "Assets\\InterpolationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:31:15.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InterpolatedTransform.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\InterpolatedTransform.cs",
+              "RelativeDocumentMoniker": "Assets\\InterpolatedTransform.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\InterpolatedTransform.cs",
+              "RelativeToolTip": "Assets\\InterpolatedTransform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:43:37.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FirstPersonAudio.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Mini First Person Controller\\Scripts\\Components\\FirstPersonAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Mini First Person Controller\\Scripts\\Components\\FirstPersonAudio.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Mini First Person Controller\\Scripts\\Components\\FirstPersonAudio.cs",
+              "RelativeToolTip": "Assets\\Mini First Person Controller\\Scripts\\Components\\FirstPersonAudio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:21:19.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FirstPersonLook.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
+              "RelativeToolTip": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonLook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:19:02.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HeadBob.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\HeadBob.cs",
+              "RelativeDocumentMoniker": "Assets\\HeadBob.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\HeadBob.cs",
+              "RelativeToolTip": "Assets\\HeadBob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:06:08.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InteractionManager.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\InteractionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\InteractionManager.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\InteractionManager.cs",
+              "RelativeToolTip": "Assets\\InteractionManager.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwFgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:57:19.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\IInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\IInteractable.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\IInteractable.cs",
+              "RelativeToolTip": "Assets\\IInteractable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:05:44.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CubeTest.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\CubeTest.cs",
+              "RelativeDocumentMoniker": "Assets\\CubeTest.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\CubeTest.cs",
+              "RelativeToolTip": "Assets\\CubeTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:06:47.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FirstPersonMovement.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonMovement.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Mini First Person Controller\\Scripts\\FirstPersonMovement.cs",
+              "RelativeToolTip": "Assets\\Mini First Person Controller\\Scripts\\FirstPersonMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:29:30.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Player_Gravity.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Player_Gravity.cs",
+              "RelativeDocumentMoniker": "Assets\\Player_Gravity.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\Player_Gravity.cs",
+              "RelativeToolTip": "Assets\\Player_Gravity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:26:49.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LightControlTest.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\LightControlTest.cs",
+              "RelativeDocumentMoniker": "Assets\\LightControlTest.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\LightControlTest.cs",
+              "RelativeToolTip": "Assets\\LightControlTest.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:23:23.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LensFlareTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\LensFlareTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\LensFlareTrigger.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\LensFlareTrigger.cs",
+              "RelativeToolTip": "Assets\\LensFlareTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:25:04.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VolumetricLightsDepthPrePassFeature.cs",
+              "DocumentMoniker": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\VolumetricLights\\Scripts\\VolumetricLightsDepthPrePassFeature.cs",
+              "RelativeDocumentMoniker": "Assets\\VolumetricLights\\Scripts\\VolumetricLightsDepthPrePassFeature.cs",
+              "ToolTip": "C:\\Users\\richa\\Elephant URP 2025 - Backup\\Assets\\VolumetricLights\\Scripts\\VolumetricLightsDepthPrePassFeature.cs",
+              "RelativeToolTip": "Assets\\VolumetricLights\\Scripts\\VolumetricLightsDepthPrePassFeature.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:08:05.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
