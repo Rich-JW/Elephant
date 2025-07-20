@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public abstract class GameState
 {
 
-    GameStateManager gsm;
+    protected GameStateManager gsm;
 
     
     public GameState(GameStateManager _gsm)
@@ -39,6 +39,10 @@ public class GameState_Play : GameState
     public override void OnStateEnter()
     {
         base.OnStateEnter();
+
+        // Lock the cursor
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
     public override void OnStateExit()
@@ -53,7 +57,7 @@ public class GameState_Play : GameState
 
     public override void Tick()
     {
-      
+        if (Input.GetKeyDown(KeyCode.P)) gsm.SetState(GameStateType.Pause);
     }
 }
 
@@ -67,11 +71,18 @@ public class GameState_Pause : GameState
     public override void OnStateEnter()
     {
         base.OnStateEnter();
+
+        Cursor.lockState = CursorLockMode.Confined;
+        Cursor.visible = true;
+
+        UIManager.Instance.ShowPauseMenu(true);
     }
 
     public override void OnStateExit()
     {
         base.OnStateExit();
+
+        UIManager.Instance.ShowPauseMenu(false);
     }
 
     public override GameStateType GetStateType()
@@ -81,7 +92,7 @@ public class GameState_Pause : GameState
 
     public override void Tick()
     {
-
+        if (Input.GetKeyDown(KeyCode.P)) gsm.SetState(GameStateType.Play);
     }
 }
 
@@ -172,7 +183,7 @@ public class GameStateManager : Singleton<GameStateManager>
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
-    private void Start()
+    private void Awake()
     {
         InitializeStates();
  

@@ -10,6 +10,6 @@ public class Singleton<T> : MonoBehaviour where T : MonoBehaviour
         if (Instance == null) Instance = this as T;
         else Destroy(gameObject);
 
-        Debug.Log("Instance is: " + Instance.name);
+  
     }
 }

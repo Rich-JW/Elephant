@@ -825,7 +825,7 @@ MonoBehaviour:
     m_Value: 0
   saturation:
     m_OverrideState: 1
-    m_Value: 17
+    m_Value: -15
 --- !u!114 &-693701023650859094
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1114,7 +1114,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   distortionStrength:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0.361
   distortionSmoothing:
     m_OverrideState: 1

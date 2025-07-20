@@ -8,4 +8,9 @@ public enum GameStateType
     No_Input,
     Init
 }
+
+public enum InputType
+{
+    Keyboard, Xbox, PS5
+}
  

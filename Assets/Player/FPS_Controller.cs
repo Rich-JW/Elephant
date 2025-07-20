@@ -20,14 +20,14 @@ public class FPS_Controller : MonoBehaviour
 
     public void OnPlayerSpawn()
     {
+
+        Debug.Log("on spawn");
       
         character = transform.root;
         cam = transform;
 
         if (character == null || cam == null) return;
-        // Lock the cursor
-        Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = false;
+  
 
         // Initialize yaw/pitch from actual transforms
         Vector3 euler = character.rotation.eulerAngles;
@@ -43,11 +43,12 @@ public class FPS_Controller : MonoBehaviour
     {
         if (character == null || cam == null) return;
 
-            float mouseX = Input.GetAxisRaw("Mouse X");
-        float mouseY = Input.GetAxisRaw("Mouse Y");
+        Vector2 mouse = InputManager.Instance.GetMouseInput();
 
-        yaw += mouseX * yawSpeed;
-        pitch += mouseY * pitchSpeed * (invertY ? 1 : -1);
+ 
+
+        yaw += mouse.x * yawSpeed;
+        pitch += mouse.y * pitchSpeed * (invertY ? 1 : -1);
 
         pitch = Mathf.Clamp(pitch, pitchClampMinMax.x, pitchClampMinMax.y);
 

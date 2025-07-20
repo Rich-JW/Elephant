@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.InputSystem;
+ 
 
 
 public class Player_Controller : MonoBehaviour
@@ -24,25 +24,14 @@ public class Player_Controller : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked;
     }
 
-    public void UpdatePlayerInput(InputAction.CallbackContext context)
-    {
-
-        Debug.Log("Update playing input ");
-        Vector2 moveInput = context.ReadValue<Vector2>();
-
-          inputX = moveInput.x;
-          inputZ = moveInput.y;
-    }
+   
 
     // Update is called once per frame
     public void UpdatePlayerController()
     {
         updateRigidbody = true;
 
-
-   
-
-        move = transform.TransformDirection(new Vector3(inputX, 0, inputZ).normalized);
+        move = transform.TransformDirection(InputManager.Instance.Move());
 
         
             if (rb != null)

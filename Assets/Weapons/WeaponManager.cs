@@ -1,6 +1,6 @@
  
 using UnityEngine;
-using UnityEngine.InputSystem;
+ 
 
 public class WeaponManager : MonoBehaviour
 {
@@ -64,15 +64,19 @@ public class WeaponManager : MonoBehaviour
             
         }
 
+        
+       if (InputManager.Instance.IsPressed("Shoot_Key")) BeginShoot();
+       else if (InputManager.Instance.IsPressed("Shoot_Gamepad")) BeginShoot();
+
+
         currentWeapon?.UpdateWeaponBob();
 
 
     }
 
-    public void BeginShoot(InputAction.CallbackContext context)
+    public void BeginShoot( )
     {
   
-        if (context.phase != InputActionPhase.Performed) return;
         Debug.Log("Shooy");
         currentWeapon?.BeginShoot();
     }

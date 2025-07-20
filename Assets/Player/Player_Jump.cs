@@ -27,7 +27,7 @@ public class Player_Jump : MonoBehaviour
     }
     public void UpdateJump()
     {
-        if (Input.GetButtonDown("Jump") && grounded)
+        if ((InputManager.Instance.IsPressed("Jump_Key") || InputManager.Instance.IsPressed("Jump_Pad")) && grounded )
         {
             StopAllCoroutines();
             grounded = false;   

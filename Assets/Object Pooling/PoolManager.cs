@@ -35,11 +35,11 @@ public class PoolManager : Singleton<PoolManager>
     void InitializePools()
     {
 
-        Debug.Log("Initializing pools");
+   
 
         foreach (var poolItem in poolItems)
         {
-            Debug.Log("Creating:" + poolItem.Key + " pool");
+            
 
             // Create game object for each pool
 
@@ -50,7 +50,7 @@ public class PoolManager : Singleton<PoolManager>
 
             Pool<MonoBehaviour> pool = new Pool<MonoBehaviour>(poolItem.Item.GetComponent<MonoBehaviour>(), poolItem.PoolSize, itemParent.transform, poolItem.InstantiateNewIfPoolEmpty);
 
-            Debug.Log("Created:" + pool);
+        
 
             pools.Add(poolItem.Key, pool);
         }
@@ -62,11 +62,11 @@ public class PoolManager : Singleton<PoolManager>
 
         if (pools.TryGetValue(key, out Pool<MonoBehaviour> pool))
         {
-            Debug.Log("Pool found:" + key );
+       
             return pool.Get() as T;
         }
 
-        Debug.Log("No pool found for key: " + key);
+     
         return null;
 
     }
