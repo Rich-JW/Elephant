@@ -35,35 +35,7 @@ ExportedObj/
 .idea/
 *.sln.iml
 
-# Ignore image assets globally
-*.png
-*.jpg
-*.jpeg
-*.tga
-*.psd
-*.bmp
-*.gif
-*.tiff
-*.exr
 
-# ignore models
-
-*.fbx
-*.obj
-*.blend
-*.3ds
-*.max
-*.ma
-*.mb
-
-# Ignore audio 
-
-*.wav
-*.mp3
-*.ogg
-*.flac
-*.aif
-*.aiff
 
 # === Build artifacts ===
 *.apk
